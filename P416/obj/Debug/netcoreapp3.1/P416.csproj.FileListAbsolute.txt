@@ -1,0 +1,14 @@
+C:\Users\user\Documents\LabP232\P416\P416\bin\Debug\netcoreapp3.1\P416.exe
+C:\Users\user\Documents\LabP232\P416\P416\bin\Debug\netcoreapp3.1\P416.deps.json
+C:\Users\user\Documents\LabP232\P416\P416\bin\Debug\netcoreapp3.1\P416.runtimeconfig.json
+C:\Users\user\Documents\LabP232\P416\P416\bin\Debug\netcoreapp3.1\P416.runtimeconfig.dev.json
+C:\Users\user\Documents\LabP232\P416\P416\bin\Debug\netcoreapp3.1\P416.dll
+C:\Users\user\Documents\LabP232\P416\P416\bin\Debug\netcoreapp3.1\P416.pdb
+C:\Users\user\Documents\LabP232\P416\P416\obj\Debug\netcoreapp3.1\P416.csproj.AssemblyReference.cache
+C:\Users\user\Documents\LabP232\P416\P416\obj\Debug\netcoreapp3.1\P416.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\LabP232\P416\P416\obj\Debug\netcoreapp3.1\P416.AssemblyInfoInputs.cache
+C:\Users\user\Documents\LabP232\P416\P416\obj\Debug\netcoreapp3.1\P416.AssemblyInfo.cs
+C:\Users\user\Documents\LabP232\P416\P416\obj\Debug\netcoreapp3.1\P416.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\LabP232\P416\P416\obj\Debug\netcoreapp3.1\P416.dll
+C:\Users\user\Documents\LabP232\P416\P416\obj\Debug\netcoreapp3.1\P416.pdb
+C:\Users\user\Documents\LabP232\P416\P416\obj\Debug\netcoreapp3.1\P416.genruntimeconfig.cache
